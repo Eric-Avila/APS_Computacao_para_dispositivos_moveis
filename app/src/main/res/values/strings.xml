@@ -18,4 +18,18 @@
     <string name="login_failed">"Login failed"</string>
     <string name="nome">Nome</string>
     <string name="descricao_do_produto">Descrição do produto</string>
+    <string name="usuario">Usuário</string>
+    <string name="carrinho">Carrinho</string>
+    <string name="senha">Senha</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="login">Login</string>
+    <string name="Nome">hint</string>
+    <string name="cpf">CPF</string>
+    <string name="telefone">Telefone</string>
+    <string name="endereco">Endereço</string>
+    <string name="complemento">Complemento</string>
+    <string name="confirmar_senha">Confirmar senha</string>
+    <string name="voltar">Voltar</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="localizar">Localizar</string>
 </resources>
